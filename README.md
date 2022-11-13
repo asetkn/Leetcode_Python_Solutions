@@ -1,1 +1,1 @@
-# Leetcode_Python_Solutions
+# Leetcode Python Solutions
